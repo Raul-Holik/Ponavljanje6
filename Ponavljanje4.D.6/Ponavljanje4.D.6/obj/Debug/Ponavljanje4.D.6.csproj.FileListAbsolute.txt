@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\bin\Debug\Ponavljanje4.D.6.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\bin\Debug\Ponavljanje4.D.6.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\bin\Debug\Ponavljanje4.D.6.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\obj\Debug\Ponavljanje4.D.6.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\obj\Debug\Ponavljanje4.D.6.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\obj\Debug\Ponavljanje4.D.6.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\obj\Debug\Ponavljanje4.D.6.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Ponavljanje4.D.6\Ponavljanje4.D.6\obj\Debug\Ponavljanje4.D.6.pdb
